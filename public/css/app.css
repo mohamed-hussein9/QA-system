@@ -1,0 +1,14 @@
+.show_replys{
+    color: #505050;
+    font-weight: bold;
+    cursor: pointer;
+}
+.subcomments{
+    display: none;
+}
+.reply-form{
+    width: 50%;
+}
+.reply-form>div{
+    display: flex;
+}
